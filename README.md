@@ -1,4 +1,4 @@
-# MS-EXCEL-AtliQ-hardware-sales-finance-excel-report
+# MS-EXCEL-AtliQ-hardware-sales-finance-excel-Project
 I present to you one of my major MS Excel Project's based on AtliQ Hardwares SALES AND FINANCIAL PERFORMANCE
 
 
